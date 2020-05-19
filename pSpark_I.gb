@@ -22,16 +22,18 @@ FEATURES             Location/Qualifiers
                      /organism="Cloning vector pSpark I"
                      /mol_type="other DNA"
                      /db_xref="taxon:673746"
-     promoter        complement(138..154)
-                     /ugene_name="SP6\ Promoter"
+     regulatory     complement(138..154)
+                     /regulatory_class="promoter"
+                     /note="SP6 Promoter"
      primer          complement(170..185)
-                     /ugene_name="M13\ R\ (-20)"
+                     /note="M13 R (-20)"
      primer          complement(174..190)
-                     /ugene_name="M13\ R\ (-40)"
-     promoter        complement(179..300)
-                     /ugene_name="PLac"
+                     /note="M13 R (-40)"
+     regulatory      complement(179..300)
+                     /regulatory_class="promoter"
+                     /note="PLac"
      rep_origin      complement(561..1175)
-                     /ugene_name="pUC\ Origin"
+                     /note="pUC Origin"
      CDS             complement(1335..2195)
                      /gene="beta lactamase"
                      /codon_start=1
@@ -46,7 +48,7 @@ FEATURES             Location/Qualifiers
                      LRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIA
                      EIGASLIKHW"
      rep_origin      complement(2376..2821)
-                     /ugene_name="F1\ Ori\ (-)"
+                     /note="F1 Ori (-)"
      CDS             complement(join(2810..3013,1..178))
                      /gene="lacZ-alpha"
                      /note="beta galactosidase alpha peptide"
@@ -57,11 +59,12 @@ FEATURES             Location/Qualifiers
                      /gene="lacZ-alpha"
                      /pseudo
      primer          2954..2970
-                     /ugene_name="M13\ F\ (-40)"
+                     /note="M13 F (-40)"
      primer          2974..2990
-                     /ugene_name="M13\ F\ (-20)"
-     promoter        2997..3013
-                     /ugene_name="T7\ Promoter"
+                     /note="M13 F (-20)"
+     regulatory     2997..3013
+                     /regulatory_class="promoter"
+                     /note="T7 Promoter"
 ORIGIN
         1 GGGCGAATTG GGCCCCCATG GGTTTAAACG AATTCTCCGG ATCAGGCCTG ATATCAGGAT
        61 CCACTAGTGC GGCCGCCTGC AGGTCGACTT TCATATGTTT GAGCTCGAGT AACGCGTTGG

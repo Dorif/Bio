@@ -16,7 +16,8 @@ FEATURES             Location/Qualifiers
      regulatory      complement(3295..3369)
                      /regulatory_class="terminator"
                      /note="SV40 PolyA late"
-     promoter        complement(3466..3587)
+     regulatory      complement(3466..3587)
+                     /regulatory_class="promoter"
                      /note="PLac"
      rep_origin      complement(3679..4081)
                      /note="pMB Origin"

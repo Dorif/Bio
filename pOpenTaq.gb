@@ -4,10 +4,11 @@ UNIMARK     pOpenTaq features
 FEATURES             Location/Qualifiers
      CDS             complement(145..2646)
                      /gene="OpenTaq polymerase"
-     promoter        complement(2647..2768)
-                     /ugene_name="PLac"
+     regulatory      complement(2647..2768)
+                     /regulatory_class="promoter"
+                     /note="PLac"
      rep_origin      complement(2964..3598)
-                     /ugene_name="pBR322 Origin"
+                     /note="pBR322 Origin"
      CDS             complement(3803..4663)
                      /note="Ampicilline resistance."
                      /gene="Beta-lactamase"

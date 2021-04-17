@@ -1,4 +1,4 @@
-LOCUS       GQ489184                3013 bp    I       circular DNA 10-MAY-2020
+LOCUS       GQ489184                3013 bp    DNA       circular 10-MAY-2020
 DEFINITION  Cloning vector pSpark I, complete sequence. Based on GQ489184 published on NCBI, but contains better annotations.
 ACCESSION   GQ489184
 VERSION     GQ489184.1  GI:258642287
@@ -22,7 +22,7 @@ FEATURES             Location/Qualifiers
                      /organism="Cloning vector pSpark I"
                      /mol_type="other DNA"
                      /db_xref="taxon:673746"
-     regulatory     complement(138..154)
+     regulatory      complement(138..154)
                      /regulatory_class="promoter"
                      /note="SP6 Promoter"
      primer          complement(170..185)
@@ -62,7 +62,7 @@ FEATURES             Location/Qualifiers
                      /note="M13 F (-40)"
      primer          2974..2990
                      /note="M13 F (-20)"
-     regulatory     2997..3013
+     regulatory      join (2997..3013,1..3)
                      /regulatory_class="promoter"
                      /note="T7 Promoter"
 ORIGIN

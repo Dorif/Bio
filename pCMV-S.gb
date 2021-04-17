@@ -7,7 +7,7 @@ FEATURES             Location/Qualifiers
      regulatory      235..818
                      /regulatory_class="promoter"
                      /note="hCMV-IE promoter and enhancer"
-     regulatory      864..880
+     regulatory      864..883
                      /regulatory_class="promoter"
                      /note="T7 promoter"
      regulatory      3295..3369

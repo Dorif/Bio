@@ -43,7 +43,7 @@ FEATURES             Location/Qualifiers
                      NLERIKEEHRFSMAAENIVGDLLERYLAEKLEPSGRSGGRSPYSESYYAGWIWCSGTS
                      VKAVDFIHYDEKNNEWNLLQVKNRDNTENSSSSKIRDNTTIKKWFRTYSQRDATNWDN
                      FPDEVSSKNLNEEDFRAFVKNYLAKII"
-     regulatory      305..321
+     regulatory      305..324
                      /regulatory_class="promoter"
                      /ugene_name="T7 Promoter"
      rep_origin      complement(1148..1762)
